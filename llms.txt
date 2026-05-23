@@ -1,0 +1,33 @@
+# Resonance Coherence — AI Reader Guide
+
+This site is the organizational spine for Resonance Coherent Holdings, LLC.
+It introduces the mission, open research corpus, live and in-build systems,
+Earth Resonance Network, and public governance commitments.
+
+Canonical site URL:
+https://resonancecoherence.org/
+
+Primary public profiles:
+- GitHub organization: https://github.com/ResonanceAdmin
+- ORCID: https://orcid.org/0009-0002-7140-8516
+- Zenodo community: https://zenodo.org/communities/resonance-coherence/records?q=&l=list&p=1&s=10&sort=newest
+
+Research corpus:
+- Repository: https://github.com/ResonanceAdmin/resonance-coherence-papers
+- AI guide: https://raw.githubusercontent.com/ResonanceAdmin/resonance-coherence-papers/main/llms.txt
+- Manifest: https://raw.githubusercontent.com/ResonanceAdmin/resonance-coherence-papers/main/manifest.json
+
+Canonical reading order for site pages:
+1. Home: https://resonancecoherence.org/
+2. Mission: https://resonancecoherence.org/mission.html
+3. Research: https://resonancecoherence.org/research.html
+4. Systems: https://resonancecoherence.org/systems.html
+5. Earth Resonance Network: https://resonancecoherence.org/network.html
+6. Governance: https://resonancecoherence.org/governance.html
+7. Contact: https://resonancecoherence.org/contact.html
+
+Key boundary:
+Published research and public site content are open under CC-BY-4.0 unless
+otherwise noted. Instrument computation methodology, personal data, and
+pre-publication work remain protected according to the Open Science and
+Independence policies.
