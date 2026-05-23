@@ -345,12 +345,14 @@ h3 {
 
 .card {
   position: relative;
-  min-height: 236px;
+  min-height: 248px;
   padding: 26px;
   border: 1px solid var(--line);
   background: var(--white-pure);
   box-shadow: 0 1px 0 rgba(10, 27, 61, 0.03);
   transition: border-color 180ms ease, transform 180ms ease, box-shadow 180ms ease;
+  display: flex;
+  flex-direction: column;
 }
 
 .card:hover,
@@ -373,9 +375,11 @@ h3 {
 }
 
 .card .card-link {
-  position: absolute;
-  left: 26px;
-  bottom: 24px;
+  position: static;
+  display: inline-flex;
+  width: fit-content;
+  margin-top: auto;
+  padding-top: 22px;
   color: var(--navy-deep);
   font-size: 0.94rem;
   font-weight: 600;
