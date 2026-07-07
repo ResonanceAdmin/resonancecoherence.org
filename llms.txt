@@ -17,6 +17,13 @@ Research corpus:
 - AI guide: https://raw.githubusercontent.com/ResonanceAdmin/resonance-coherence-papers/main/llms.txt
 - Manifest: https://raw.githubusercontent.com/ResonanceAdmin/resonance-coherence-papers/main/manifest.json
 
+Current research priority order:
+1. Multi-Cycle CPS Performance Audit — https://doi.org/10.5281/zenodo.20785759
+2. 19-day Type IV comment paper — https://doi.org/10.5281/zenodo.21163697
+3. The Development of RFS-X — https://doi.org/10.5281/zenodo.20785815
+
+The complete paper/resource order is maintained in the papers repository manifest.
+
 Canonical reading order for site pages:
 1. Home: https://resonancecoherence.org/
 2. Mission: https://resonancecoherence.org/mission.html
